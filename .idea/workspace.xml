@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fb479b8-5046-4a8f-bd64-f3a9670e58a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelLaPerseverancia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/Habitacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionDeLujo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionEstandar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionInexistenteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionOcupadaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/Reserva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/habitacionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/hotelTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ou7QVVegC9WogUcvtTzCwEFjSH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.habitacionTest.executor": "Run",
+    "JUnit.hotelTest.IntentarReservarUnaHabitacionInexistente.executor": "Run",
+    "JUnit.hotelTest.IntentarReservarUnaHabitacionYaOcupada.executor": "Run",
+    "JUnit.hotelTest.agregarUnaHabitacionEstandar.executor": "Run",
+    "JUnit.hotelTest.cancelarUnaReserva.executor": "Run",
+    "JUnit.hotelTest.cosultarReservasPorRangoDeFechas.executor": "Run",
+    "JUnit.hotelTest.executor": "Run",
+    "JUnit.hotelTest.reservarUnaHabitacionEstandarDisponible.executor": "Run",
+    "JUnit.hotelTest.reservarUnaHabitacionSuiteDisponible.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ar.edu.unahur.obj2.hotel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.habitacionTest">
+    <configuration name="habitacionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelLaPerseverancia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.unahur.obj2.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.unahur.obj2.hotel" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.unahur.obj2.hotel.habitacionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hotelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelLaPerseverancia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.unahur.obj2.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.unahur.obj2.hotel" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.unahur.obj2.hotel.hotelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hotelTest.IntentarReservarUnaHabitacionYaOcupada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelLaPerseverancia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.unahur.obj2.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.unahur.obj2.hotel" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.unahur.obj2.hotel.hotelTest" />
+      <option name="METHOD_NAME" value="IntentarReservarUnaHabitacionYaOcupada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hotelTest.cosultarReservasPorRangoDeFechas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelLaPerseverancia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.unahur.obj2.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.unahur.obj2.hotel" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.unahur.obj2.hotel.hotelTest" />
+      <option name="METHOD_NAME" value="cosultarReservasPorRangoDeFechas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hotelTest.reservarUnaHabitacionSuiteDisponible" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HotelLaPerseverancia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.unahur.obj2.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.edu.unahur.obj2.hotel" />
+      <option name="MAIN_CLASS_NAME" value="ar.edu.unahur.obj2.hotel.hotelTest" />
+      <option name="METHOD_NAME" value="reservarUnaHabitacionSuiteDisponible" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.habitacionTest" />
+        <item itemvalue="JUnit.hotelTest" />
+        <item itemvalue="JUnit.hotelTest.cosultarReservasPorRangoDeFechas" />
+        <item itemvalue="JUnit.hotelTest.reservarUnaHabitacionSuiteDisponible" />
+        <item itemvalue="JUnit.hotelTest.IntentarReservarUnaHabitacionYaOcupada" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fb479b8-5046-4a8f-bd64-f3a9670e58a6" name="Changes" comment="" />
+      <created>1731707591056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731707591056</updated>
+      <workItem from="1731707592089" duration="1194000" />
+      <workItem from="1731708805288" duration="9799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
