@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb479b8-5046-4a8f-bd64-f3a9670e58a6" name="Changes" comment="entrega del parcial">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionDeLujo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionDeLujo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionEstandar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionEstandar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/habitacionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/habitacionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/hotelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/hotelTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8fb479b8-5046-4a8f-bd64-f3a9670e58a6" name="Changes" comment="entrega del parcial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731707591056</updated>
       <workItem from="1731707592089" duration="1194000" />
-      <workItem from="1731708805288" duration="10552000" />
+      <workItem from="1731708805288" duration="11032000" />
     </task>
     <task id="LOCAL-00001" summary="entrega del parcial">
       <option name="closed" value="true" />
@@ -195,13 +188,22 @@
       <option name="project" value="LOCAL" />
       <updated>1731719103186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="entrega del parcial">
+      <option name="closed" value="true" />
+      <created>1731719718218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731719718218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="entrega del parcial." />
     <MESSAGE value="entrega del parcial" />
     <option name="LAST_COMMIT_MESSAGE" value="entrega del parcial" />
   </component>
