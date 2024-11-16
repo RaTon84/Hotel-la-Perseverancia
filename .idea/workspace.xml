@@ -4,24 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb479b8-5046-4a8f-bd64-f3a9670e58a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HotelLaPerseverancia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/Habitacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionDeLujo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionEstandar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionInexistenteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionOcupadaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/Reserva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/habitacionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/hotelTest.java" afterDir="false" />
+    <list default="true" id="8fb479b8-5046-4a8f-bd64-f3a9670e58a6" name="Changes" comment="entrega del parcial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionDeLujo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionDeLujo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionEstandar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionEstandar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/edu/unahur/obj2/hotel/HabitacionSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/habitacionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/habitacionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/hotelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ar.edu.unahur.obj2.hotel/hotelTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RaTon84"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RaTon84/Hotel-la-Perseverancia.git",
+    "accountId": "19f3d8b4-f032-4915-98ce-9f3b96c407ce"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -184,11 +185,24 @@
       <option name="presentableId" value="Default" />
       <updated>1731707591056</updated>
       <workItem from="1731707592089" duration="1194000" />
-      <workItem from="1731708805288" duration="9799000" />
+      <workItem from="1731708805288" duration="10552000" />
     </task>
+    <task id="LOCAL-00001" summary="entrega del parcial">
+      <option name="closed" value="true" />
+      <created>1731719103186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731719103186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="entrega del parcial" />
+    <option name="LAST_COMMIT_MESSAGE" value="entrega del parcial" />
   </component>
 </project>

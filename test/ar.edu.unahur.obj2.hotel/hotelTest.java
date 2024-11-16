@@ -6,9 +6,9 @@ import java.time.LocalDate;
 public class hotelTest {
 
     Hotel laPerseverancia = new Hotel();
-    HabitacionEstandar estandar = new HabitacionEstandar(22,2,200.0,true,false,true,true);
-    HabitacionSuite suite = new HabitacionSuite(22,2,200.0,10.0,false,true,true, 3);
-    HabitacionDeLujo lujo = new HabitacionDeLujo(22,2,200.0,true,true);
+    HabitacionEstandar estandar = new HabitacionEstandar(22,2,true,false,true,true);
+    HabitacionSuite suite = new HabitacionSuite(22,2,10.0,false,true,true, 3);
+    HabitacionDeLujo lujo = new HabitacionDeLujo(22,2,true,true);
     Cliente cliente = new Cliente("Hernan",30893000);
 
     @Test

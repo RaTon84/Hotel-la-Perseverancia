@@ -6,9 +6,9 @@ import static org.junit.Assert.assertEquals;
 public class habitacionTest {
 
     Hotel laPerseverancia = new Hotel();
-    HabitacionEstandar estandar = new HabitacionEstandar(22,2,200.0,true,false,true,true);
+    HabitacionEstandar estandar = new HabitacionEstandar(22,2,true,false,true,true);
     Cliente cliente = new Cliente("Hernan",30893000);
-    HabitacionSuite suite = new HabitacionSuite(22,2,200.0,10.0,false,true,true, 3);
+    HabitacionSuite suite = new HabitacionSuite(22,2,10.0,false,true,true, 3);
 
     @Test
     public void reservarUnaHabitacionEstandarDisponible() throws HabitacionInexistenteException, HabitacionOcupadaException {
