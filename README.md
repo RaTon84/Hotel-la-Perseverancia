@@ -2,6 +2,7 @@
   <img  src="https://github.com/RaTon84/Taller-Lenguajes-de-marcado-UNAHUR/blob/10ba9bdad96272088bfc71626eff781e41499173/logo-unahur.png" alt="logo-unahur" width="250" height="75" />
 </div> 
 
+2do Parcial Objetos 2 – 15 Nov 24  
 # Hotel “La Perseverancia”.
 
 Enunciado.
